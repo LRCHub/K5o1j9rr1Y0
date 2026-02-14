@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "LG's Life",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T14:26:34.005908Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LG's Life",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_LG's_Life_LGYankees.txt"
+    }
+  ]
+}
